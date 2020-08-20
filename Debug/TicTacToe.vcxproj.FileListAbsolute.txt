@@ -1,0 +1,2 @@
+C:\Users\Chris\source\repos\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Chris\source\repos\TicTacToe\Debug\TicTacToe.pdb
